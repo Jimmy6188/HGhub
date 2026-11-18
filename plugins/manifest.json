@@ -1,0 +1,1 @@
+{"description":"给 HGhub 写的插件：iptv-org 公开直播源。","name":"Jimmy 的 HGhub 插件","plugins":[{"description":"iptv-org 公开直播源：按地区与分类浏览全球电视台。","id":"iptv-org.live","name":"IPTV 直播","url":"iptv-org-live.js","version":"1.0.0"}]}
